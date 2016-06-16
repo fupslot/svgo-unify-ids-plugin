@@ -1,0 +1,10 @@
+{
+  "name": "svgo-unify-ids-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for svgo. Removes unused IDs and keep others unique",
+  "main": "unifyIDs.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Eugene Brodsky",
+  "license": "MIT"
+}
